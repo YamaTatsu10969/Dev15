@@ -34,6 +34,8 @@ class ViewController: UIViewController {
          if文
          var status = "normal"
          
+         print("status を確認します！！！😆")
+         print(status)
          if status == "normal" {
             status = "angry"
          } else {
